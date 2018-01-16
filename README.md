@@ -36,7 +36,6 @@ $ npm run build
 
 帮助联系
 >
-	
-作者:jiangjinlei
-邮箱:135652820@qq.com
-QQ:135652820
+	作者:jiangjinlei
+	邮箱:135652820@qq.com
+	QQ:135652820
